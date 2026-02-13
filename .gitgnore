@@ -1,0 +1,18 @@
+# Ambientes Virtuais
+.venv/
+venv/
+ENV/
+
+# PyCharm/IDE
+.idea/
+.vscode/
+
+# Arquivos de Build e Executável
+build/
+dist/
+*.spec
+
+# Temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
